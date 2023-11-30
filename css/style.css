@@ -1,0 +1,56 @@
+/* table tr td{ */
+/* padding:30px; */
+/* } */
+/* #prvi{ */
+/* width:200px; */
+/* height:200px; */
+/* background-color:red; */
+/* } */
+/* #drugi{ */
+/* width:200px; */
+/* height:200px; */
+/* background-color:green; */
+/* /* visibility:hidden; */
+/* display:none; */
+/* } */
+/* #jedan{ */
+/* width:200px; */
+/* height:200px; */
+/* background-color:red; */
+/* } */
+/* #dva{ */
+/* width:200px; */
+/* height:200px; */
+/* background-color:green; */
+/* display:inline-block; */
+/* } */
+/* >,~,+ */
+
+/* ul>li{ */
+/* color:green; */
+/* } */
+
+/* #prvi>p{ */
+/* color:red; */
+/* } */
+
+/* span~p{ */
+/* /color:red; */
+/* }
+*/
+/* li + li {
+  color: red;
+}
+span ~ p {
+  color: red;
+} */
+a ~ p {
+  color: blueviolet;
+}
+/* #prvi > p {
+  color: aqua;
+} */
+
+.selektovan + li {
+  color: aqua;
+}
